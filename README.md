@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **ReactJS, Bootstrap, Tailwind**.
 
-<p align="center">
+<h3 align="center">
   These repositories showcase my eagerness to learn and improve my programming skills. I am currently a third-year Computer Science student, learning front-end development through self-study and by working on projects that I upload to GitHub.
-</p>
+</h3>
 
 - 📫 How to reach me **bontojohnadrian@gmail.com**
 
