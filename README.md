@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Adrian Bonto</h1>
 <h3 align="center">I am an aspiring software engineer from the Philippines, currently focusing on front-end development.</h3>
 
-- 🌱 I’m currently learning **ReactJS,Bootstrap,Tailwind**
+- 🌱 I’m currently learning **ReactJS, Bootstrap, Tailwind**.
+
+<p align="center">
+  These repositories showcase my eagerness to learn and improve my programming skills. I am currently a third-year Computer Science student, learning front-end development through self-study and by working on projects that I upload to GitHub.
+</p>
 
 - 📫 How to reach me **bontojohnadrian@gmail.com**
 
