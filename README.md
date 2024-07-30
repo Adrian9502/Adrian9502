@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Adrian Bonto</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">I am an aspiring software engineer from the Philippines, currently focusing on front-end development.</h3>
 
 - 🌱 I’m currently learning **ReactJS,Bootstrap,Tailwind**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/john adrian bonto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john adrian bonto" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100082782967903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john adrian bonto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
