@@ -2,6 +2,8 @@
 ![John Adrian Bonto GIF](https://github.com/Adrian9502/Adrian9502/blob/main/myname.gif)
 
 ### 💫 About Me:
+👨🏽‍🎓 I'm currently a 3rd-year college student studying Computer Science at City College of Calamba, Laguna, Philippines. <br>
+🎯 I'm a curious person, always eager to learn new things. At 21 years old, I aspire to become a software engineer someday! <br>
 🔭 I’m currently working on personal projects to enhance my skills in web development.<br>🌱 I’m currently learning ReactJS, Tailwind CSS, and Bootstrap to build modern, responsive web applications.<br>💬 Ask me about programming, web development, or anything tech-related—I'm always happy to share what I know and learn from others!<br>⚡ Fun fact: I’m a coffee enthusiast who believes that a great cup of coffee is the secret ingredient to writing clean code!
 
 ### 🌐 Socials:
