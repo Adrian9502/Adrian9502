@@ -8,14 +8,21 @@ Combining technical excellence with user-focused design to create clean, engagin
 
 ## 🧠 Tech Stack
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,reactnative)](https://skillicons.dev)
+### 🖥️ Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,reactnative)](https://skillicons.dev)  
+**ReactJS • Tailwind CSS • HTML • CSS • JavaScript • React Native**
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php)](https://skillicons.dev)
+---
 
-### Tools & Testing
-[![My Skills](https://skillicons.dev/icons?i=git,postman,jest)](https://skillicons.dev)
+### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php)](https://skillicons.dev)  
+**Node.js • Express.js • MongoDB • PHP**
+
+---
+
+### 🧰 Tools & Testing
+[![My Skills](https://skillicons.dev/icons?i=git,postman,jest)](https://skillicons.dev)  
+**Git • Postman • Jest**
 
 ---
 
@@ -28,7 +35,7 @@ Combining technical excellence with user-focused design to create clean, engagin
 
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian9502&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian9502&layout=compact&theme=transparent&hide_border=true&hide=python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian9502&layout=compact&theme=transparent&hide_border=true&hide=python,html)
 
 ---
 
