@@ -39,7 +39,8 @@ Combining technical excellence with user-focused design to create clean, engagin
 
 ---
 
-## 🚀 About Me 🚀 I’m someone who believes that every project—big or small—is a chance to grow.
+## 🚀 About Me 
+I’m someone who believes that every project—big or small—is a chance to grow.
 From crafting smooth UIs with React to building scalable APIs with Express, I’m always eager to learn and experiment with new technologies.
 I see coding as both a craft and a creative outlet.
 
