@@ -50,7 +50,7 @@ Building a **Human Resource Information System (HRIS)** using **Ruby on Rails 9*
 ### ⚙️ Backend & Full-Stack
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,php,rails,ruby)](https://skillicons.dev)
  
-`Node.js` · `Express.js` · `PHP` · `Ruby on Rails 9` · `Active Admin 4`
+`Node.js` · `Express.js` · `PHP` · `Ruby on Rails 8` · `Active Admin 4`
  
 ### 🗄️ Databases
 [![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
